@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">shake-animation</string>
+
+    <!-- Main -->
+    <string name="password">Password</string>
+    <string name="success">Success</string>
+    <string name="login">Login</string>
+    <string name="try_again">Try Again</string>
 </resources>
